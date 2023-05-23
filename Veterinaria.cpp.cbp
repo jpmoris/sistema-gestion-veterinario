@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Veterinaria.cpp" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Veterinaria" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="C:/Users/Juan Pablo Moris/Documents/utn/laboratorio2/trabajo_segundo_parcial_v3/include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Veterinaria" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="C:/Users/Juan Pablo Moris/Documents/utn/laboratorio2/trabajo_segundo_parcial_v3/include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Animal.h" />
+		<Unit filename="include/ArchivoCliente.h" />
+		<Unit filename="include/ArchivoEmpleado.h" />
+		<Unit filename="include/ArchivoVentas.h" />
+		<Unit filename="include/ArchivosAnimal.h" />
+		<Unit filename="include/Cliente.h" />
+		<Unit filename="include/Empleado.h" />
+		<Unit filename="include/Fecha.h" />
+		<Unit filename="include/Menu.h" />
+		<Unit filename="include/Persona.h" />
+		<Unit filename="include/Ventas.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Animal.cpp" />
+		<Unit filename="src/ArchivoCliente.cpp" />
+		<Unit filename="src/ArchivoEmpleado.cpp" />
+		<Unit filename="src/ArchivoVentas.cpp" />
+		<Unit filename="src/ArchivosAnimal.cpp" />
+		<Unit filename="src/Cliente.cpp" />
+		<Unit filename="src/Empleado.cpp" />
+		<Unit filename="src/Fecha.cpp" />
+		<Unit filename="src/Menu.cpp" />
+		<Unit filename="src/Persona.cpp" />
+		<Unit filename="src/Ventas.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

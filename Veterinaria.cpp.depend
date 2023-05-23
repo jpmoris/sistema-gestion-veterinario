@@ -1,0 +1,1017 @@
+# depslib dependency file v1.0
+1666792058 source:d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp\main.cpp
+	<iostream>
+
+1666792058 source:d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1666792058 d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp\include\fecha.h
+
+1666624000 source:d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp\src\cliente.cpp
+	<iostream>
+	"Cliente.h"
+
+1666624312 d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp\include\cliente.h
+	"Fecha.h"
+	"Persona.h"
+	"Animal.h"
+
+1666792058 d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp\include\persona.h
+	<string>
+
+1666792287 d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp\include\animal.h
+	"Fecha.h"
+	<string>
+
+1666792854 source:d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp\src\animal.cpp
+	<iostream>
+	<cstring>
+	"Animal.h"
+
+1666792058 source:d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1666792854 source:d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp v2-\src\animal.cpp
+	<iostream>
+	<cstring>
+	"Animal.h"
+
+1666792287 d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp v2-\include\animal.h
+	"Fecha.h"
+	<string>
+
+1666792058 d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp v2-\include\fecha.h
+
+1666886327 source:d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp v2-\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+
+1666886328 d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp v2-\include\cliente.h
+	"Fecha.h"
+	"Persona.h"
+	"Animal.h"
+
+1666792058 d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp v2-\include\persona.h
+	<string>
+
+1666792058 source:d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp v2-\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1666792058 source:d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp v2-\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1666971855 source:d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp v2-\main.cpp
+	<iostream>
+	"ArchivoCliente.h"
+	"Cliente.h"
+
+1666965174 d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp v2-\include\archivocliente.h
+	"Cliente.h"
+
+1666972330 source:d:\users\gonzalo\desktop\veterinaria\veterinaria.cpp v2-\src\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1667140871 source:d:\users\gonzalo\desktop\veterinaria\veterinaria v3\veterinaria v3\src\animal.cpp
+	<iostream>
+	<cstring>
+	"Animal.h"
+
+1667140355 d:\users\gonzalo\desktop\veterinaria\veterinaria v3\veterinaria v3\include\animal.h
+	"Fecha.h"
+	<string>
+
+1666792060 d:\users\gonzalo\desktop\veterinaria\veterinaria v3\veterinaria v3\include\fecha.h
+
+1667145686 source:d:\users\gonzalo\desktop\veterinaria\veterinaria v3\veterinaria v3\src\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1666972642 d:\users\gonzalo\desktop\veterinaria\veterinaria v3\veterinaria v3\include\archivocliente.h
+	"Cliente.h"
+
+1666886330 d:\users\gonzalo\desktop\veterinaria\veterinaria v3\veterinaria v3\include\cliente.h
+	"Fecha.h"
+	"Persona.h"
+	"Animal.h"
+
+1666792060 d:\users\gonzalo\desktop\veterinaria\veterinaria v3\veterinaria v3\include\persona.h
+	<string>
+
+1666886328 source:d:\users\gonzalo\desktop\veterinaria\veterinaria v3\veterinaria v3\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+
+1666792060 source:d:\users\gonzalo\desktop\veterinaria\veterinaria v3\veterinaria v3\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1666792060 source:d:\users\gonzalo\desktop\veterinaria\veterinaria v3\veterinaria v3\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1667140179 source:d:\users\gonzalo\desktop\veterinaria\veterinaria v3\veterinaria v3\main.cpp
+	<iostream>
+	"ArchivoCliente.h"
+	"Cliente.h"
+	"Animal.h"
+	"ArchivosAnimal.h"
+
+1667139830 source:d:\users\gonzalo\desktop\veterinaria\veterinaria v3\veterinaria v3\src\archivosanimal.cpp
+	<iostream>
+	"ArchivosAnimal.h"
+
+1667139025 d:\users\gonzalo\desktop\veterinaria\veterinaria v3\veterinaria v3\include\archivosanimal.h
+	"Animal.h"
+
+1667394459 source:f:\utn\2do_cuatri\lab_computacion_ii\trabajo_segundo_parcial\main.cpp
+	<iostream>
+	"ArchivoCliente.h"
+	"Cliente.h"
+	"Animal.h"
+	"ArchivosAnimal.h"
+
+1667364919 f:\utn\2do_cuatri\lab_computacion_ii\trabajo_segundo_parcial\include\archivocliente.h
+	"Cliente.h"
+
+1667358262 f:\utn\2do_cuatri\lab_computacion_ii\trabajo_segundo_parcial\include\cliente.h
+	"Fecha.h"
+	"Persona.h"
+	"Animal.h"
+
+1666792060 f:\utn\2do_cuatri\lab_computacion_ii\trabajo_segundo_parcial\include\fecha.h
+
+1666792060 f:\utn\2do_cuatri\lab_computacion_ii\trabajo_segundo_parcial\include\persona.h
+	<string>
+
+1667356598 f:\utn\2do_cuatri\lab_computacion_ii\trabajo_segundo_parcial\include\animal.h
+	"Fecha.h"
+	<string>
+
+1667364662 f:\utn\2do_cuatri\lab_computacion_ii\trabajo_segundo_parcial\include\archivosanimal.h
+	"Animal.h"
+
+1667361553 source:f:\utn\2do_cuatri\lab_computacion_ii\trabajo_segundo_parcial\src\animal.cpp
+	<iostream>
+	<cstring>
+	"Animal.h"
+
+1667394354 source:f:\utn\2do_cuatri\lab_computacion_ii\trabajo_segundo_parcial\src\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1667364683 source:f:\utn\2do_cuatri\lab_computacion_ii\trabajo_segundo_parcial\src\archivosanimal.cpp
+	"ArchivosAnimal.h"
+	<iostream>
+
+1667365232 source:f:\utn\2do_cuatri\lab_computacion_ii\trabajo_segundo_parcial\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"ArchivosAnimal.h"
+
+1667352877 source:f:\utn\2do_cuatri\lab_computacion_ii\trabajo_segundo_parcial\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1667358117 source:f:\utn\2do_cuatri\lab_computacion_ii\trabajo_segundo_parcial\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1667518527 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial\main.cpp
+	<iostream>
+	"ArchivoCliente.h"
+	"Cliente.h"
+	"Animal.h"
+	"ArchivosAnimal.h"
+
+1667490692 d:\users\gonzalo\desktop\trabajo_segundo_parcial\include\archivocliente.h
+	"Cliente.h"
+
+1667490692 d:\users\gonzalo\desktop\trabajo_segundo_parcial\include\cliente.h
+	"Fecha.h"
+	"Persona.h"
+	"Animal.h"
+
+1666792060 d:\users\gonzalo\desktop\trabajo_segundo_parcial\include\fecha.h
+
+1666792060 d:\users\gonzalo\desktop\trabajo_segundo_parcial\include\persona.h
+	<string>
+
+1667356598 d:\users\gonzalo\desktop\trabajo_segundo_parcial\include\animal.h
+	"Fecha.h"
+	<string>
+
+1667364662 d:\users\gonzalo\desktop\trabajo_segundo_parcial\include\archivosanimal.h
+	"Animal.h"
+
+1667518527 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial\src\animal.cpp
+	<iostream>
+	<cstring>
+	"Animal.h"
+
+1667516244 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial\src\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1667364683 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial\src\archivosanimal.cpp
+	"ArchivosAnimal.h"
+	<iostream>
+
+1667492148 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"ArchivosAnimal.h"
+
+1667352877 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1667358117 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1667518527 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\main.cpp
+	<iostream>
+	"ArchivoCliente.h"
+	"Cliente.h"
+	"Animal.h"
+	"ArchivosAnimal.h"
+
+1667490692 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\include\archivocliente.h
+	"Cliente.h"
+
+1667490692 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\include\cliente.h
+	"Fecha.h"
+	"Persona.h"
+	"Animal.h"
+
+1666792060 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\include\fecha.h
+
+1666792060 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\include\persona.h
+	<string>
+
+1667356598 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\include\animal.h
+	"Fecha.h"
+	<string>
+
+1667364662 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\include\archivosanimal.h
+	"Animal.h"
+
+1667518527 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\src\animal.cpp
+	<iostream>
+	<cstring>
+	"Animal.h"
+
+1667516244 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\src\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1667364683 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\src\archivosanimal.cpp
+	"ArchivosAnimal.h"
+	<iostream>
+
+1667492148 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"ArchivosAnimal.h"
+
+1667352877 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1667358117 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1667920318 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\src\archivoventas.cpp
+	<iostream>
+	"ArchivoVentas.h"
+
+1667920318 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v2\include\archivoventas.h
+
+1668008246 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\main.cpp
+	<iostream>
+	"ArchivoCliente.h"
+	"Cliente.h"
+	"Animal.h"
+	"ArchivosAnimal.h"
+	"ArchivoVentas.h"
+	"Ventas.h"
+
+1667490692 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\include\archivocliente.h
+	"Cliente.h"
+
+1667490692 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\include\cliente.h
+	"Fecha.h"
+	"Persona.h"
+	"Animal.h"
+
+1666792060 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\include\fecha.h
+
+1666792060 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\include\persona.h
+	<string>
+
+1667356598 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\include\animal.h
+	"Fecha.h"
+	<string>
+
+1667364662 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\include\archivosanimal.h
+	"Animal.h"
+
+1667518527 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\src\animal.cpp
+	<iostream>
+	<cstring>
+	"Animal.h"
+
+1667516244 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\src\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1667364683 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\src\archivosanimal.cpp
+	"ArchivosAnimal.h"
+	<iostream>
+
+1668002371 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"ArchivosAnimal.h"
+
+1667352877 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1667358117 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1668006830 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\src\ventas.cpp
+	<iostream>
+	<cstring>
+	"Ventas.h"
+
+1667921165 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\include\ventas.h
+	"Fecha.h"
+
+1668008363 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\src\archivoventas.cpp
+	<iostream>
+	"ArchivoVentas.h"
+
+1668006930 d:\users\gonzalo\desktop\trabajo_segundo_parcial - v3\include\archivoventas.h
+	"Ventas.h"
+
+1668052061 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\main.cpp
+	<iostream>
+	"ArchivoCliente.h"
+	"ArchivosAnimal.h"
+	"ArchivoVentas.h"
+	"ArchivoEmpleado.h"
+
+1667490694 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\include\archivocliente.h
+	"Cliente.h"
+
+1667490694 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\include\cliente.h
+	"Fecha.h"
+	"Persona.h"
+	"Animal.h"
+
+1666792060 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\include\fecha.h
+
+1666792060 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\include\persona.h
+	<string>
+
+1667356600 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\include\animal.h
+	"Fecha.h"
+	<string>
+
+1667364664 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\include\archivosanimal.h
+	"Animal.h"
+
+1668045472 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\include\archivoventas.h
+	"Ventas.h"
+
+1668045022 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\include\ventas.h
+	"Fecha.h"
+
+1667518528 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\src\animal.cpp
+	<iostream>
+	<cstring>
+	"Animal.h"
+
+1667516246 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\src\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1668050895 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\src\archivosanimal.cpp
+	"ArchivosAnimal.h"
+	<iostream>
+
+1668002372 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"ArchivosAnimal.h"
+
+1667352878 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1667358118 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1668045148 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\src\ventas.cpp
+	<iostream>
+	<cstring>
+	"Ventas.h"
+
+1668050502 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\src\archivoventas.cpp
+	<iostream>
+	"ArchivoVentas.h"
+
+1668051590 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\include\archivoempleado.h
+	"Empleado.h"
+
+1668051453 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\include\empleado.h
+	"Persona.h"
+
+1668051477 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\src\empleado.cpp
+	<iostream>
+	"Empleado.h"
+
+1668052145 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v3\src\archivoempleado.cpp
+	<iostream>
+	"ArchivoEmpleado.h"
+
+1667518528 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\src\animal.cpp
+	<iostream>
+	<cstring>
+	"Animal.h"
+
+1667356600 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\include\animal.h
+	"Fecha.h"
+	<string>
+
+1666792060 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\include\fecha.h
+
+1667516246 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\src\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1667490694 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\include\archivocliente.h
+	"Cliente.h"
+
+1667490694 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\include\cliente.h
+	"Fecha.h"
+	"Persona.h"
+	"Animal.h"
+
+1666792060 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\include\persona.h
+	<string>
+
+1668052145 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\src\archivoempleado.cpp
+	<iostream>
+	"ArchivoEmpleado.h"
+
+1668051590 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\include\archivoempleado.h
+	"Empleado.h"
+
+1668051453 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\include\empleado.h
+	"Persona.h"
+
+1668050895 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\src\archivosanimal.cpp
+	"ArchivosAnimal.h"
+	<iostream>
+
+1667364664 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\include\archivosanimal.h
+	"Animal.h"
+
+1668050502 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\src\archivoventas.cpp
+	<iostream>
+	"ArchivoVentas.h"
+
+1668045472 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\include\archivoventas.h
+	"Ventas.h"
+
+1668045022 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\include\ventas.h
+	"Fecha.h"
+
+1668002372 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"ArchivosAnimal.h"
+
+1668051477 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\src\empleado.cpp
+	<iostream>
+	"Empleado.h"
+
+1667352878 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1667358118 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1668045148 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v4\src\ventas.cpp
+	<iostream>
+	<cstring>
+	"Ventas.h"
+
+1667518528 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\animal.cpp
+	<iostream>
+	<cstring>
+	"Animal.h"
+
+1667356600 d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\animal.h
+	"Fecha.h"
+	<string>
+
+1666792060 d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\fecha.h
+
+1667516246 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1667490694 d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\archivocliente.h
+	"Cliente.h"
+
+1667490694 d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\cliente.h
+	"Fecha.h"
+	"Persona.h"
+	"Animal.h"
+
+1666792060 d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\persona.h
+	<string>
+
+1668052145 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\archivoempleado.cpp
+	<iostream>
+	"ArchivoEmpleado.h"
+
+1668051590 d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\archivoempleado.h
+	"Empleado.h"
+
+1668051453 d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\empleado.h
+	"Persona.h"
+
+1668050895 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\archivosanimal.cpp
+	"ArchivosAnimal.h"
+	<iostream>
+
+1667364664 d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\archivosanimal.h
+	"Animal.h"
+
+1668050502 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\archivoventas.cpp
+	<iostream>
+	"ArchivoVentas.h"
+
+1668045472 d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\archivoventas.h
+	"Ventas.h"
+
+1668045022 d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\ventas.h
+	"Fecha.h"
+
+1668002372 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"ArchivosAnimal.h"
+
+1668051477 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\empleado.cpp
+	<iostream>
+	"Empleado.h"
+
+1667352878 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1667358118 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1668045148 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\ventas.cpp
+	<iostream>
+	<cstring>
+	"Ventas.h"
+
+1668086436 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\main.cpp
+	<iostream>
+	"ArchivoCliente.h"
+	"ArchivosAnimal.h"
+	"ArchivoVentas.h"
+	"ArchivoEmpleado.h"
+	<locale.h>
+	"Menu.h"
+
+1668086393 d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\menu.h
+	"ArchivoCliente.h"
+	"ArchivosAnimal.h"
+	"ArchivoVentas.h"
+	"ArchivoEmpleado.h"
+
+1668086336 source:d:\users\gonzalo\desktop\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1668086614 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\main.cpp
+	<iostream>
+	<locale.h>
+	"Menu.h"
+
+1668086394 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\menu.h
+	"ArchivoCliente.h"
+	"ArchivosAnimal.h"
+	"ArchivoVentas.h"
+	"ArchivoEmpleado.h"
+
+1667490694 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\archivocliente.h
+	"Cliente.h"
+
+1667490694 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\cliente.h
+	"Fecha.h"
+	"Persona.h"
+	"Animal.h"
+
+1666792060 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\fecha.h
+
+1666792060 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\persona.h
+	<string>
+
+1667356600 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\animal.h
+	"Fecha.h"
+	<string>
+
+1667364664 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\archivosanimal.h
+	"Animal.h"
+
+1668045474 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\archivoventas.h
+	"Ventas.h"
+
+1668045024 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\ventas.h
+	"Fecha.h"
+
+1668051592 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\archivoempleado.h
+	"Empleado.h"
+
+1668051454 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\include\empleado.h
+	"Persona.h"
+
+1667518528 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\animal.cpp
+	<iostream>
+	<cstring>
+	"Animal.h"
+
+1667516246 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1668052146 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\archivoempleado.cpp
+	<iostream>
+	"ArchivoEmpleado.h"
+
+1668050896 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\archivosanimal.cpp
+	"ArchivosAnimal.h"
+	<iostream>
+
+1668050504 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\archivoventas.cpp
+	<iostream>
+	"ArchivoVentas.h"
+
+1668120031 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"ArchivosAnimal.h"
+
+1668051478 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\empleado.cpp
+	<iostream>
+	"Empleado.h"
+
+1667352878 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1668120067 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1667358118 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1668120459 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v5\src\ventas.cpp
+	<iostream>
+	<cstring>
+	"Ventas.h"
+	"ArchivosAnimal.h"
+	"ArchivoCliente.h"
+
+1668086614 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\main.cpp
+	<iostream>
+	<locale.h>
+	"Menu.h"
+
+1668308162 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\include\menu.h
+	"ArchivoCliente.h"
+	"ArchivosAnimal.h"
+	"ArchivoVentas.h"
+	"ArchivoEmpleado.h"
+
+1667490694 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\include\archivocliente.h
+	"Cliente.h"
+
+1668358420 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\include\cliente.h
+	"Fecha.h"
+	"Persona.h"
+	"Animal.h"
+
+1666792060 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\include\fecha.h
+
+1666792060 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\include\persona.h
+	<string>
+
+1668358485 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\include\animal.h
+	"Fecha.h"
+	<string>
+
+1667364664 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\include\archivosanimal.h
+	"Animal.h"
+
+1668045474 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\include\archivoventas.h
+	"Ventas.h"
+
+1668350341 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\include\ventas.h
+	"Fecha.h"
+
+1668051592 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\include\archivoempleado.h
+	"Empleado.h"
+
+1668362888 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\include\empleado.h
+	"Persona.h"
+
+1668358646 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\src\animal.cpp
+	<iostream>
+	<cstring>
+	"Animal.h"
+	"ArchivoCliente.h"
+
+1668358448 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\src\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1668052146 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\src\archivoempleado.cpp
+	<iostream>
+	"ArchivoEmpleado.h"
+
+1668050896 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\src\archivosanimal.cpp
+	"ArchivosAnimal.h"
+	<iostream>
+
+1668050504 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\src\archivoventas.cpp
+	<iostream>
+	"ArchivoVentas.h"
+
+1668387488 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"ArchivosAnimal.h"
+	"ArchivoCliente.h"
+
+1668362880 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\src\empleado.cpp
+	<iostream>
+	"Empleado.h"
+
+1667352878 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1667358118 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1668350400 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\src\ventas.cpp
+	<iostream>
+	<cstring>
+	"Ventas.h"
+	"ArchivosAnimal.h"
+	"ArchivoCliente.h"
+
+1668394173 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v6\src\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1668086614 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\main.cpp
+	<iostream>
+	<locale.h>
+	"Menu.h"
+
+1668308162 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\include\menu.h
+	"ArchivoCliente.h"
+	"ArchivosAnimal.h"
+	"ArchivoVentas.h"
+	"ArchivoEmpleado.h"
+
+1667490694 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\include\archivocliente.h
+	"Cliente.h"
+
+1668358420 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\include\cliente.h
+	"Fecha.h"
+	"Persona.h"
+	"Animal.h"
+
+1666792060 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\include\fecha.h
+
+1666792060 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\include\persona.h
+	<string>
+
+1668358485 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\include\animal.h
+	"Fecha.h"
+	<string>
+
+1667364664 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\include\archivosanimal.h
+	"Animal.h"
+
+1668655354 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\include\archivoventas.h
+	"Ventas.h"
+
+1668350341 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\include\ventas.h
+	"Fecha.h"
+
+1668051592 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\include\archivoempleado.h
+	"Empleado.h"
+
+1668362888 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\include\empleado.h
+	"Persona.h"
+
+1668358646 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\src\animal.cpp
+	<iostream>
+	<cstring>
+	"Animal.h"
+	"ArchivoCliente.h"
+
+1668358448 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\src\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1668052146 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\src\archivoempleado.cpp
+	<iostream>
+	"ArchivoEmpleado.h"
+
+1668050896 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\src\archivosanimal.cpp
+	"ArchivosAnimal.h"
+	<iostream>
+
+1668655764 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\src\archivoventas.cpp
+	<iostream>
+	"ArchivoVentas.h"
+
+1668387488 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"ArchivosAnimal.h"
+	"ArchivoCliente.h"
+
+1668362880 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\src\empleado.cpp
+	<iostream>
+	"Empleado.h"
+
+1667352878 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1668656450 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\src\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1667358118 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1668350400 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_v6\trabajo_segundo_parcial_v7\src\ventas.cpp
+	<iostream>
+	<cstring>
+	"Ventas.h"
+	"ArchivosAnimal.h"
+	"ArchivoCliente.h"
+
+1668086614 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\main.cpp
+	<iostream>
+	<locale.h>
+	"Menu.h"
+
+1668308162 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\include\menu.h
+	"ArchivoCliente.h"
+	"ArchivosAnimal.h"
+	"ArchivoVentas.h"
+	"ArchivoEmpleado.h"
+
+1667490694 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\include\archivocliente.h
+	"Cliente.h"
+
+1668358420 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\include\cliente.h
+	"Fecha.h"
+	"Persona.h"
+	"Animal.h"
+
+1666792060 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\include\fecha.h
+
+1666792060 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\include\persona.h
+	<string>
+
+1668358485 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\include\animal.h
+	"Fecha.h"
+	<string>
+
+1667364664 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\include\archivosanimal.h
+	"Animal.h"
+
+1668655354 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\include\archivoventas.h
+	"Ventas.h"
+
+1668350341 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\include\ventas.h
+	"Fecha.h"
+
+1668051592 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\include\archivoempleado.h
+	"Empleado.h"
+
+1668362888 c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\include\empleado.h
+	"Persona.h"
+
+1668358646 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\src\animal.cpp
+	<iostream>
+	<cstring>
+	"Animal.h"
+	"ArchivoCliente.h"
+
+1668358448 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\src\archivocliente.cpp
+	<iostream>
+	"ArchivoCliente.h"
+
+1668052146 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\src\archivoempleado.cpp
+	<iostream>
+	"ArchivoEmpleado.h"
+
+1668050896 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\src\archivosanimal.cpp
+	"ArchivosAnimal.h"
+	<iostream>
+
+1668655764 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\src\archivoventas.cpp
+	<iostream>
+	"ArchivoVentas.h"
+
+1668387488 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"ArchivosAnimal.h"
+	"ArchivoCliente.h"
+
+1668362880 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\src\empleado.cpp
+	<iostream>
+	"Empleado.h"
+
+1667352878 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1668656749 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\src\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1667358118 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1668350400 source:c:\users\juan pablo moris\documents\utn\laboratorio2\trabajo_segundo_parcial_final\src\ventas.cpp
+	<iostream>
+	<cstring>
+	"Ventas.h"
+	"ArchivosAnimal.h"
+	"ArchivoCliente.h"
+
